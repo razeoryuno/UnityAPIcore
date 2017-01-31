@@ -1,0 +1,14 @@
+
+.classpath
+.loadpath
+.DS_Store
+.settings/
+.idea/*
+
+._.DS_Store
+
+tmp/*
+!tmp/.gitkeep
+
+log/*
+!log/.gitkeep
